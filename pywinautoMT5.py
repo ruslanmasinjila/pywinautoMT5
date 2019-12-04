@@ -1,3 +1,4 @@
+#"C:\Users\ruslan\AppData\Local\Programs\Python\Python37\python.exe" "$(FULL_CURRENT_PATH)"
 from pywinauto.application import Application
 import subprocess
 import time
